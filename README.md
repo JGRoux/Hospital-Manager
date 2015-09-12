@@ -9,9 +9,9 @@ Corbeille permettant de récupérer les éléments suprimmés si nécessaire.<br
 Prise en charge d'un tunnel SSH.<br>
 
 Contributeurs:
-Louis Beucherie
-Alexandre Hippert
-Jean-Guillaume Roux
+- Louis Beucherie
+- Alexandre Hippert
+- Jean-Guillaume Roux
 
 
 ![](https://cloud.githubusercontent.com/assets/9430924/9834296/9be47d44-5982-11e5-9775-bf0e9922c13d.PNG)
