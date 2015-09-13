@@ -8,7 +8,7 @@ Permet d'ajouter des événements pour les médecins ou les infirmiers.<br>
 Corbeille permettant de récupérer les éléments suprimmés si nécessaire.<br>
 Prise en charge d'un tunnel SSH.<br>
 
-Contributeurs:
+**Contributeurs:**
 - Louis Beucherie
 - Alexandre Hippert
 - Jean-Guillaume Roux
